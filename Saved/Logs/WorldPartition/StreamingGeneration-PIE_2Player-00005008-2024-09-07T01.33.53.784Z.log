@@ -1,0 +1,539 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/2Player
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:012225884637FEC878AA81A5278A2726 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:02C2F06141576BE128C78A8A22C6362E BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524771902_1337341847 Label:Player_Detector SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3112.000 Y=5808.000 Z=628.000), Max=(X=-3048.000 Y=5872.000 Z=692.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:09ADA7184E1E07C57D88C485B3CA4C12 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1294088320 Label:Boingy8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5822.500 Y=2032.500 Z=582.500), Max=(X=5897.500 Y=2107.500 Z=657.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:11F720B147AEFFFEF9937DAEA840AD35 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B5247A1902_2040408402 Label:TextRenderActor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2023.015 Y=-1362.536 Z=1303.948), Max=(X=2023.015 Y=-1288.161 Z=1359.198) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:142A0EE1457F2AAE38E1DDA325988E5D BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247F1902_2111444331 Label:Player_Detector5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5868.000 Y=2988.000 Z=1288.000), Max=(X=5932.000 Y=3052.000 Z=1352.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:158F7C424712BA742E07A1B86F0BAD1D BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524BA1902_1419029638 Label:TextRenderActor7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-260.000 Y=1730.625 Z=2000.000), Max=(X=-260.000 Y=1840.000 Z=2081.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:165F6D3C422CC72905F3EDBA1B0D69A1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1780301328 Label:Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6153.750 Y=2710.000 Z=1222.500), Max=(X=6166.250 Y=2810.000 Z=1697.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1CBA20374995146EBAAF739BCFEA26E5 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524781902_1548090037 Label:Player_Detector2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4132.000 Y=11548.000 Z=1018.000), Max=(X=-4068.000 Y=11612.000 Z=1082.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:24EA12214436F51FBD0792BE65DB5CF2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1930552511 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3710.000 Y=1048.750 Z=200.000), Max=(X=-3610.000 Y=1811.250 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2DB7870C45A174644FC9D284FCCECA9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1450288878 Label:Cube23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3707.500 Y=892.500 Z=930.000), Max=(X=-3532.500 Y=1067.500 Z=1030.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2ECB9AB942B8AD73463060AE0B1D4D36 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1838987854 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3350.000 Y=11530.000 Z=-13.750), Max=(X=-3250.000 Y=11630.000 Z=273.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2EE6293A4A572B73D5F440A31DAFB573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1245433875 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1560.000 Y=1918.750 Z=510.000), Max=(X=-1460.000 Y=2681.250 Z=610.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2EFF42F24E88D29B805051A49A25DCC8 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524781902_1567101038 Label:TextRenderActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4100.000 Y=11520.625 Z=1060.000), Max=(X=-4100.000 Y=11630.000 Z=1141.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2F9FE48540517EF8FDE139927BBD2ACB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1477772695 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3797.500 Y=2670.000 Z=-42.500), Max=(X=77.500 Y=2770.000 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:319F5E7946A615C083F7DE9BEE1AC5F0 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1972264767 Label:Bumper7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2250.000 Y=11700.000 Z=1360.000), Max=(X=2350.000 Y=11800.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:324F11EB4F8F6B5461FF55B3D936C6EE BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524BA1902_1637831642 Label:TextRenderActor8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7570.000 Y=7256.875 Z=30.000), Max=(X=7570.000 Y=7340.000 Z=91.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:387DBCEB48CE1EE95C4F0C89254AE1A4 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1319820179 Label:ShakeZone8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3527.387 Y=11549.753 Z=1016.805), Max=(X=-3463.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:38A9B0A44ED2D413D17A6EA36F724071 BaseClass:/Game/Obsticles/UpDownPlatform.UpDownPlatform_C NativeClass:/Script/Engine.Actor Name:UpDownPlatform_C_UAID_088FC308B5247A1902_1331750398 Label:UpDownPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2120.000 Y=-2120.000 Z=1203.750), Max=(X=2220.000 Y=-2020.000 Z=1216.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:399250AF48CAD8393EC9209EBB85F787 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1139995174 Label:ShakeZone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2927.387 Y=11149.753 Z=736.805), Max=(X=-2863.387 Y=11213.753 Z=800.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3DC9335745353A51EE584DB7CC18CF1B BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:41A2A85B41F7434EE526D3BAEB51B8B2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1324235322 Label:Boingy10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5835.000 Y=2535.000 Z=595.000), Max=(X=5885.000 Y=2585.000 Z=645.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:456B3C0A44CB33C288ABC3A66B505CDC BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1330017180 Label:ShakeZone9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3727.387 Y=11549.753 Z=1016.805), Max=(X=-3663.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:480E5BFB4F7BBC90DE653BB3D7FAAF0C BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1355009324 Label:Boingy12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5997.500 Y=2747.500 Z=607.500), Max=(X=6022.500 Y=2772.500 Z=632.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:49B9B56041630EC5F836619B19F6E639 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1993244769 Label:Bumper9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3640.000 Y=11540.000 Z=1360.000), Max=(X=3740.000 Y=11640.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4DFFD43D45BE0545418A74B5BDBCF455 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1738061763 Label:Bumper3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1580.000 Y=8800.000 Z=1360.000), Max=(X=1680.000 Y=8900.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:519858E64D12DF9E7D7DCBB8BCC77065 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247D1902_1703816950 Label:Player_Detector4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6728.000 Y=11498.000 Z=1448.000), Max=(X=6792.000 Y=11562.000 Z=1512.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53C76BFE4AB49FB0894ECDBECDF622B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247E1902_1891197131 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=1673.750 Z=652.500), Max=(X=5130.000 Y=1686.250 Z=1127.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:544EF3294D8BCA28E3F2F2AB803B97FC BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1536963128 Label:Boingy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=1580.000 Z=-7.500), Max=(X=5130.000 Y=1680.000 Z=667.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56BFA03245884E0FE5A368A1EFF57D73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524831902_1154450057 Label:Cube24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3800.000 Y=892.500 Z=-42.500), Max=(X=-3700.000 Y=2767.500 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:59CA3131461E295551B73F9E3EDF5FC2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1311396321 Label:Boingy9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5828.750 Y=2298.750 Z=588.750), Max=(X=5891.250 Y=2361.250 Z=651.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5A9F55F74EC25CCBFB212994CB639864 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1084687172 Label:ShakeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3337.387 Y=11549.753 Z=246.805), Max=(X=-3273.387 Y=11613.753 Z=310.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5CF7C7B24DD7C97D57DE98B8DF96A95B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1120063034 Label:Cone5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4150.000 Y=11530.000 Z=-21.250), Max=(X=-4050.000 Y=11630.000 Z=1041.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D9FA8F34186714DBD62ABA659FC5E86 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1641573325 Label:Boingy13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6060.000 Y=2710.000 Z=562.500), Max=(X=6160.000 Y=2810.000 Z=1237.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5EC73CD34FE796A979AF1FBFA2FFD920 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1121549843 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3136.250 Y=5783.750 Z=473.750), Max=(X=-3023.750 Y=5896.250 Z=586.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5F89768A4BF4645DC5626995FE093AE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1609088458 Label:Cube29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2666.802 Y=2758.750 Z=1108.620), Max=(X=-2333.198 Y=2821.250 Z=1391.380) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6203134147775CDD6DCD18AD135F6F8E BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524BA1902_1359881637 Label:Player_Detector7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.000 Y=1748.000 Z=1958.000), Max=(X=-228.000 Y=1812.000 Z=2022.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6290A2D94344F04005F2419D8E48FAC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247B1902_1955962581 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=804.471 Y=6760.000 Z=-35.485), Max=(X=1195.529 Y=6860.000 Z=295.485) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:64E690C8471DD95B82ADA2BBEE8DCA63 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:6648286E411FBF2FCAC9DE85B5A94873 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_2017617770 Label:Bumper10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3640.000 Y=11430.000 Z=1360.000), Max=(X=3740.000 Y=11530.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:68D87EA345A6ED4DE50F3591186DEDAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1988724512 Label:Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3280.000 Y=1898.750 Z=270.000), Max=(X=-3180.000 Y=2661.250 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:69EA668E4E54694E7D816081A9A27418 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524BA1902_1579854639 Label:Player_Detector8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7538.000 Y=7268.000 Z=-32.000), Max=(X=7602.000 Y=7332.000 Z=32.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6B356447455557D6A6C7DEA5C526CB40 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3250.000 Y=-1670.000 Z=270.013), Max=(X=-3170.000 Y=-1590.000 Z=454.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7043B09246A80564BF993893632CD027 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_2006857855 Label:Cone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3325.000 Y=11155.000 Z=-22.500), Max=(X=-3275.000 Y=11205.000 Z=502.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:708B8BE44EFA11D7D289C7AB657AF47F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6280.000 Y=-3750.000 Z=-50.000), Max=(X=9907.500 Y=15412.500 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:7137B6114D3ABF079BE473B494A00C31 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1526475456 Label:Cube27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1181.822 Y=2761.250 Z=391.448), Max=(X=-778.178 Y=2898.750 Z=548.552) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:79A75B6F4CCF4E66DE3519A491DFE273 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1686621326 Label:Boingy14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5720.000 Y=2710.000 Z=562.500), Max=(X=5820.000 Y=2810.000 Z=1237.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7AA3BB36492CA8A7F706F1871B9BCC3D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1568795457 Label:Cube28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1887.155 Y=2760.000 Z=698.337), Max=(X=-1512.845 Y=2860.000 Z=921.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7C09ABF74A127D84FC47B1B57206515D BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1341561181 Label:ShakeZone10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3927.387 Y=11549.753 Z=1016.805), Max=(X=-3863.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7C78C7E64BD7B51B7D18228F930FF37E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1589662696 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3758.750 Y=852.500 Z=1890.000), Max=(X=78.750 Y=2727.500 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7CC890A348F57E8F70D6738B3615A01A BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1597981129 Label:Boingy2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=950.000 Z=-7.500), Max=(X=5130.000 Y=1050.000 Z=667.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7ED738404BFAA8DD8C226AB88A660C9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1081907691 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3797.500 Y=800.000 Z=-42.500), Max=(X=77.500 Y=900.000 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:85A62B3D460DAB72ED38DF93FBAEC42A BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1167412175 Label:ShakeZone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2927.387 Y=11549.753 Z=1016.805), Max=(X=-2863.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:86FA59104D49F06ACF05B49F3E2E451D BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247A1902_2012691401 Label:Player_Detector3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1988.000 Y=-1362.000 Z=1258.000), Max=(X=2052.000 Y=-1298.000 Z=1322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8807F37C41D05051E3B3DE9DABF443C0 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1304223178 Label:ShakeZone7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3327.387 Y=11549.753 Z=1016.805), Max=(X=-3263.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:880F45DD424071B664101997313096C3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524761902_1836892665 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3223.750 Y=5696.250 Z=-3.750), Max=(X=-2936.250 Y=5983.750 Z=283.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:888E5A4B43968B69E48356ABFEAAFDC4 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1720643762 Label:Bumper2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1390.000 Y=8090.000 Z=1360.000), Max=(X=1490.000 Y=8190.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D6D0A5743A2697A1A3C5CAF2FCE7B08 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1341516877 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3131.250 Y=890.000 Z=930.000), Max=(X=-2368.750 Y=990.000 Z=1030.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8E0E7C81425764C7CEA862908BA69758 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1106700173 Label:ShakeZone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3327.387 Y=11149.753 Z=476.805), Max=(X=-3263.387 Y=11213.753 Z=540.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8E9215844F6E0D9EF92174BC918342AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_2024995513 Label:Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3281.250 Y=2570.000 Z=270.000), Max=(X=-2518.750 Y=2670.000 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:93BFF04A46464AC9118BEDB0189B058B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247D1902_1267699949 Label:Cylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6437.500 Y=11227.500 Z=1463.750), Max=(X=7062.500 Y=11852.500 Z=1476.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9847891A461DBEC9F99EA1AE67502270 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1965697766 Label:Bumper6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2250.000 Y=11810.000 Z=1360.000), Max=(X=2350.000 Y=11910.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9C47FD7940F4F8C4DCDA8D820885D06E BaseClass:/Game/Obsticles/UpDownPlatform.UpDownPlatform_C NativeClass:/Script/Engine.Actor Name:UpDownPlatform_C_UAID_088FC308B524781902_2037127039 Label:UpDownPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=900.000 Y=-2320.000 Z=203.750), Max=(X=1000.000 Y=-2220.000 Z=216.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9F2F3C914A6085C6DECC63A0D52224F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_2102642514 Label:Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2231.250 Y=2570.000 Z=510.000), Max=(X=-1468.750 Y=2670.000 Z=610.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A3AAEA4848804BF27CCCA6BE055739AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1090884033 Label:Cone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2968.750 Y=11511.250 Z=-21.250), Max=(X=-2831.250 Y=11648.750 Z=1041.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A4F0924B409B5ACCA2EE719B022A5CD2 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1168633759 Label:Bumper SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1390.000 Y=6740.000 Z=1360.000), Max=(X=1490.000 Y=6840.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AA85DDAD4E057C6FBB8F0797A8FF8CEB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1633106459 Label:Cube30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3346.802 Y=2767.500 Z=1558.620), Max=(X=-3013.198 Y=2792.500 Z=1841.380) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B15010F14C454038B4BA16B55CB52AE8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1272134876 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1330.000 Y=888.750 Z=710.000), Max=(X=-1230.000 Y=1651.250 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B16C987D4FE2C13C34D1A9A39DEA5211 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524821902_1666815880 Label:TextRenderActor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3620.000 Y=938.125 Z=1060.000), Max=(X=-3620.000 Y=1030.000 Z=1128.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B207CBD847F28FC71EC41CB06EBD498F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1450276455 Label:Cube26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-440.357 Y=2762.500 Z=106.945), Max=(X=-19.643 Y=2937.500 Z=193.055) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B47AFA8442C76639F76089A57F631B79 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1167727844 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3117.500 Y=5802.500 Z=582.500), Max=(X=-3042.500 Y=5877.500 Z=657.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7D273E84CEB1C42BBC01D8C01640D37 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1838434765 Label:Bumper5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.000 Y=11620.000 Z=1360.000), Max=(X=1460.000 Y=11720.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B9E320554A94E33D528C14A29F9059BA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:BC554A8F442379D45B4E838A228635E2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1081469309 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=943.750 Z=652.500), Max=(X=5130.000 Y=956.250 Z=1127.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC888FCF42B7AEADBCD28CA162009F01 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_2003720330 Label:Cone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5850.000 Y=2970.000 Z=1265.000), Max=(X=5950.000 Y=3070.000 Z=1315.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C22AA079467F7F247EE40E9A943C9B73 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:C281FA6C41174A086E33BB922E0DB430 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1775731764 Label:Bumper4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1210.000 Y=9500.000 Z=1360.000), Max=(X=1310.000 Y=9600.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C5AB921F4A301D37DEC86ABA01AAC4A1 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1248469317 Label:Boingy5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6113.750 Y=1253.750 Z=563.750), Max=(X=6226.250 Y=1366.250 Z=676.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C63D44F44DEA3D6BB08D7E82DE17CFA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1832950698 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2001.250 Y=890.000 Z=710.000), Max=(X=-1238.750 Y=990.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C961226440A73603EF662D85F20FE8D1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524831902_1670339059 Label:Cube25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20.000 Y=862.500 Z=188.750), Max=(X=80.000 Y=2737.500 Z=1951.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D21D4B0848352BB5708F0BA2E4F2A87E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1093404842 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3180.000 Y=5740.000 Z=280.000), Max=(X=-2980.000 Y=5940.000 Z=480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D32CBE784CA3CEDD65CDF09BEAC4FAB2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1261481318 Label:Boingy6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6120.000 Y=1630.000 Z=570.000), Max=(X=6220.000 Y=1730.000 Z=670.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D452769643E5B9A0D6AE5C9393197F71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1685798510 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3611.250 Y=900.000 Z=0.000), Max=(X=-2848.750 Y=1000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D93E9D854E345A39BEA9B1ADF9E96895 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1280974177 Label:ShakeZone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3127.387 Y=11549.753 Z=1016.805), Max=(X=-3063.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DDCFA56D45A10157916C1BBF09B49330 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:DEF0515D4D2271B72DC6BBAB726D4091 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:E02BE561487D59B2FC34BB937EF2E0FF BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524821902_1650838879 Label:Player_Detector6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3652.000 Y=948.000 Z=998.000), Max=(X=-3588.000 Y=1012.000 Z=1062.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E46239A547C617CE4E2CC5AC2E8F0F0A BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524801902_1075971508 Label:TextRenderActor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5900.000 Y=2984.375 Z=1320.000), Max=(X=5900.000 Y=3050.000 Z=1368.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E7F2BB304911940C71177A8C245EBE08 BaseClass:/Game/Obsticles/SidetoSidePlatform.SidetoSidePlatform_C NativeClass:/Script/Engine.Actor Name:SidetoSidePlatform_C_UAID_088FC308B524791902_1868893219 Label:SidetoSidePlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1840.000 Y=-2120.000 Z=763.750), Max=(X=1940.000 Y=-2020.000 Z=776.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EB3927F141B23DAC027D10BBB4C09F2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_2063979856 Label:Cone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2906.250 Y=11173.750 Z=-17.500), Max=(X=-2893.750 Y=11186.250 Z=757.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECB357E8426D998522F0D6874397AD71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:EFF0838B4AAE6B1B24C1C4A3CAC483B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1291514035 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4087.500 Y=11573.750 Z=1013.750), Max=(X=-2912.500 Y=11586.250 Z=1026.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F08141B74AB54C2517F0A9A47A847D2B BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524771902_1611268853 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3070.000 Y=5735.625 Z=620.000), Max=(X=-3070.000 Y=5950.000 Z=779.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F0D53FF740659C56C49DECA5258665D0 BaseClass:/Game/Obsticles/SidetoSidePlatform.SidetoSidePlatform_C NativeClass:/Script/Engine.Actor Name:SidetoSidePlatform_C_UAID_088FC308B5247A1902_1584402399 Label:SidetoSidePlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2320.000 Y=-1790.000 Z=1323.750), Max=(X=2420.000 Y=-1690.000 Z=1336.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F1EC88174977EA112B677CA28DADD44F BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B5247D1902_1775636951 Label:TextRenderActor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6750.000 Y=11483.750 Z=1490.000), Max=(X=6750.000 Y=11580.000 Z=1561.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F364040D40B66AE1AFBC0795EDF9302D BaseClass:/Game/Obsticles/CrazyPlatform.CrazyPlatform_C NativeClass:/Script/Engine.Actor Name:CrazyPlatform_C_UAID_088FC308B5247B1902_1191017579 Label:CrazyPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1206.250 Y=6566.250 Z=283.750), Max=(X=1693.750 Y=7053.750 Z=296.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3E328374E03DA004975B28C660802C5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1730772327 Label:Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5713.750 Y=2710.000 Z=1222.500), Max=(X=5726.250 Y=2810.000 Z=1697.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F84135164BFE88DC9003BDB87D664212 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1339839323 Label:Boingy11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5841.250 Y=2741.250 Z=601.250), Max=(X=5878.750 Y=2778.750 Z=638.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FA73BD0243D8677D9552E3AA82C86AB8 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1981633132 Label:Boingy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5331.250 Y=1241.250 Z=551.250), Max=(X=5468.750 Y=1378.750 Z=688.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FB3F93C54DED910B1DDE15997588AFBD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247A1902_1721807400 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1970.000 Y=-1380.000 Z=1273.750), Max=(X=2070.000 Y=-1280.000 Z=1286.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FE83950B43BAF23F3DB6D594ACEB70F4 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1280118319 Label:Boingy7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6126.250 Y=2026.250 Z=576.250), Max=(X=6213.750 Y=2113.750 Z=663.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FFA0B4524E6DF286FC403DBCADA910F9 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1237402316 Label:Boingy4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5707.500 Y=1247.500 Z=557.500), Max=(X=5832.500 Y=1372.500 Z=682.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:012225884637FEC878AA81A5278A2726 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:02C2F06141576BE128C78A8A22C6362E BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524771902_1337341847 Label:Player_Detector SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3112.000 Y=5808.000 Z=628.000), Max=(X=-3048.000 Y=5872.000 Z=692.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:09ADA7184E1E07C57D88C485B3CA4C12 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1294088320 Label:Boingy8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5822.500 Y=2032.500 Z=582.500), Max=(X=5897.500 Y=2107.500 Z=657.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:11F720B147AEFFFEF9937DAEA840AD35 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B5247A1902_2040408402 Label:TextRenderActor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2023.015 Y=-1362.536 Z=1303.948), Max=(X=2023.015 Y=-1288.161 Z=1359.198) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:142A0EE1457F2AAE38E1DDA325988E5D BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247F1902_2111444331 Label:Player_Detector5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5868.000 Y=2988.000 Z=1288.000), Max=(X=5932.000 Y=3052.000 Z=1352.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:158F7C424712BA742E07A1B86F0BAD1D BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524BA1902_1419029638 Label:TextRenderActor7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-260.000 Y=1730.625 Z=2000.000), Max=(X=-260.000 Y=1840.000 Z=2081.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:165F6D3C422CC72905F3EDBA1B0D69A1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1780301328 Label:Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6153.750 Y=2710.000 Z=1222.500), Max=(X=6166.250 Y=2810.000 Z=1697.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1CBA20374995146EBAAF739BCFEA26E5 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524781902_1548090037 Label:Player_Detector2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4132.000 Y=11548.000 Z=1018.000), Max=(X=-4068.000 Y=11612.000 Z=1082.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:24EA12214436F51FBD0792BE65DB5CF2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1930552511 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3710.000 Y=1048.750 Z=200.000), Max=(X=-3610.000 Y=1811.250 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2DB7870C45A174644FC9D284FCCECA9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1450288878 Label:Cube23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3707.500 Y=892.500 Z=930.000), Max=(X=-3532.500 Y=1067.500 Z=1030.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:2ECB9AB942B8AD73463060AE0B1D4D36 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1838987854 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3350.000 Y=11530.000 Z=-13.750), Max=(X=-3250.000 Y=11630.000 Z=273.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2EE6293A4A572B73D5F440A31DAFB573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1245433875 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1560.000 Y=1918.750 Z=510.000), Max=(X=-1460.000 Y=2681.250 Z=610.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2EFF42F24E88D29B805051A49A25DCC8 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524781902_1567101038 Label:TextRenderActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4100.000 Y=11520.625 Z=1060.000), Max=(X=-4100.000 Y=11630.000 Z=1141.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2F9FE48540517EF8FDE139927BBD2ACB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1477772695 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3797.500 Y=2670.000 Z=-42.500), Max=(X=77.500 Y=2770.000 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:319F5E7946A615C083F7DE9BEE1AC5F0 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1972264767 Label:Bumper7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2250.000 Y=11700.000 Z=1360.000), Max=(X=2350.000 Y=11800.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:324F11EB4F8F6B5461FF55B3D936C6EE BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524BA1902_1637831642 Label:TextRenderActor8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7570.000 Y=7256.875 Z=30.000), Max=(X=7570.000 Y=7340.000 Z=91.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:387DBCEB48CE1EE95C4F0C89254AE1A4 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1319820179 Label:ShakeZone8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3527.387 Y=11549.753 Z=1016.805), Max=(X=-3463.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:38A9B0A44ED2D413D17A6EA36F724071 BaseClass:/Game/Obsticles/UpDownPlatform.UpDownPlatform_C NativeClass:/Script/Engine.Actor Name:UpDownPlatform_C_UAID_088FC308B5247A1902_1331750398 Label:UpDownPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2120.000 Y=-2120.000 Z=1203.750), Max=(X=2220.000 Y=-2020.000 Z=1216.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:399250AF48CAD8393EC9209EBB85F787 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1139995174 Label:ShakeZone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2927.387 Y=11149.753 Z=736.805), Max=(X=-2863.387 Y=11213.753 Z=800.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:3DC9335745353A51EE584DB7CC18CF1B BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:41A2A85B41F7434EE526D3BAEB51B8B2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1324235322 Label:Boingy10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5835.000 Y=2535.000 Z=595.000), Max=(X=5885.000 Y=2585.000 Z=645.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:456B3C0A44CB33C288ABC3A66B505CDC BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1330017180 Label:ShakeZone9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3727.387 Y=11549.753 Z=1016.805), Max=(X=-3663.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:480E5BFB4F7BBC90DE653BB3D7FAAF0C BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1355009324 Label:Boingy12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5997.500 Y=2747.500 Z=607.500), Max=(X=6022.500 Y=2772.500 Z=632.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:49B9B56041630EC5F836619B19F6E639 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1993244769 Label:Bumper9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3640.000 Y=11540.000 Z=1360.000), Max=(X=3740.000 Y=11640.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:4DFFD43D45BE0545418A74B5BDBCF455 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1738061763 Label:Bumper3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1580.000 Y=8800.000 Z=1360.000), Max=(X=1680.000 Y=8900.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:519858E64D12DF9E7D7DCBB8BCC77065 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247D1902_1703816950 Label:Player_Detector4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6728.000 Y=11498.000 Z=1448.000), Max=(X=6792.000 Y=11562.000 Z=1512.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:53C76BFE4AB49FB0894ECDBECDF622B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247E1902_1891197131 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=1673.750 Z=652.500), Max=(X=5130.000 Y=1686.250 Z=1127.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:544EF3294D8BCA28E3F2F2AB803B97FC BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1536963128 Label:Boingy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=1580.000 Z=-7.500), Max=(X=5130.000 Y=1680.000 Z=667.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:56BFA03245884E0FE5A368A1EFF57D73 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524831902_1154450057 Label:Cube24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3800.000 Y=892.500 Z=-42.500), Max=(X=-3700.000 Y=2767.500 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:59CA3131461E295551B73F9E3EDF5FC2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1311396321 Label:Boingy9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5828.750 Y=2298.750 Z=588.750), Max=(X=5891.250 Y=2361.250 Z=651.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:5A9F55F74EC25CCBFB212994CB639864 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1084687172 Label:ShakeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3337.387 Y=11549.753 Z=246.805), Max=(X=-3273.387 Y=11613.753 Z=310.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:5CF7C7B24DD7C97D57DE98B8DF96A95B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1120063034 Label:Cone5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4150.000 Y=11530.000 Z=-21.250), Max=(X=-4050.000 Y=11630.000 Z=1041.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:5D9FA8F34186714DBD62ABA659FC5E86 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1641573325 Label:Boingy13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6060.000 Y=2710.000 Z=562.500), Max=(X=6160.000 Y=2810.000 Z=1237.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:5EC73CD34FE796A979AF1FBFA2FFD920 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1121549843 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3136.250 Y=5783.750 Z=473.750), Max=(X=-3023.750 Y=5896.250 Z=586.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:5F89768A4BF4645DC5626995FE093AE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1609088458 Label:Cube29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2666.802 Y=2758.750 Z=1108.620), Max=(X=-2333.198 Y=2821.250 Z=1391.380) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:6203134147775CDD6DCD18AD135F6F8E BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524BA1902_1359881637 Label:Player_Detector7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-292.000 Y=1748.000 Z=1958.000), Max=(X=-228.000 Y=1812.000 Z=2022.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:6290A2D94344F04005F2419D8E48FAC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247B1902_1955962581 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=804.471 Y=6760.000 Z=-35.485), Max=(X=1195.529 Y=6860.000 Z=295.485) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:64E690C8471DD95B82ADA2BBEE8DCA63 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:6648286E411FBF2FCAC9DE85B5A94873 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_2017617770 Label:Bumper10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3640.000 Y=11430.000 Z=1360.000), Max=(X=3740.000 Y=11530.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:68D87EA345A6ED4DE50F3591186DEDAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1988724512 Label:Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3280.000 Y=1898.750 Z=270.000), Max=(X=-3180.000 Y=2661.250 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:69EA668E4E54694E7D816081A9A27418 BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524BA1902_1579854639 Label:Player_Detector8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7538.000 Y=7268.000 Z=-32.000), Max=(X=7602.000 Y=7332.000 Z=32.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:6B356447455557D6A6C7DEA5C526CB40 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3250.000 Y=-1670.000 Z=270.013), Max=(X=-3170.000 Y=-1590.000 Z=454.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:7043B09246A80564BF993893632CD027 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_2006857855 Label:Cone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3325.000 Y=11155.000 Z=-22.500), Max=(X=-3275.000 Y=11205.000 Z=502.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:708B8BE44EFA11D7D289C7AB657AF47F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6280.000 Y=-3750.000 Z=-50.000), Max=(X=9907.500 Y=15412.500 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:7137B6114D3ABF079BE473B494A00C31 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1526475456 Label:Cube27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1181.822 Y=2761.250 Z=391.448), Max=(X=-778.178 Y=2898.750 Z=548.552) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:79A75B6F4CCF4E66DE3519A491DFE273 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1686621326 Label:Boingy14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5720.000 Y=2710.000 Z=562.500), Max=(X=5820.000 Y=2810.000 Z=1237.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:7AA3BB36492CA8A7F706F1871B9BCC3D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1568795457 Label:Cube28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1887.155 Y=2760.000 Z=698.337), Max=(X=-1512.845 Y=2860.000 Z=921.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:7C09ABF74A127D84FC47B1B57206515D BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1341561181 Label:ShakeZone10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3927.387 Y=11549.753 Z=1016.805), Max=(X=-3863.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:7C78C7E64BD7B51B7D18228F930FF37E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1589662696 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3758.750 Y=852.500 Z=1890.000), Max=(X=78.750 Y=2727.500 Z=1990.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:7CC890A348F57E8F70D6738B3615A01A BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1597981129 Label:Boingy2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=950.000 Z=-7.500), Max=(X=5130.000 Y=1050.000 Z=667.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:7ED738404BFAA8DD8C226AB88A660C9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1081907691 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3797.500 Y=800.000 Z=-42.500), Max=(X=77.500 Y=900.000 Z=1982.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:85A62B3D460DAB72ED38DF93FBAEC42A BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1167412175 Label:ShakeZone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2927.387 Y=11549.753 Z=1016.805), Max=(X=-2863.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:86FA59104D49F06ACF05B49F3E2E451D BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B5247A1902_2012691401 Label:Player_Detector3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1988.000 Y=-1362.000 Z=1258.000), Max=(X=2052.000 Y=-1298.000 Z=1322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:8807F37C41D05051E3B3DE9DABF443C0 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1304223178 Label:ShakeZone7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3327.387 Y=11549.753 Z=1016.805), Max=(X=-3263.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:880F45DD424071B664101997313096C3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524761902_1836892665 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3223.750 Y=5696.250 Z=-3.750), Max=(X=-2936.250 Y=5983.750 Z=283.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:888E5A4B43968B69E48356ABFEAAFDC4 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1720643762 Label:Bumper2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1390.000 Y=8090.000 Z=1360.000), Max=(X=1490.000 Y=8190.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:8D6D0A5743A2697A1A3C5CAF2FCE7B08 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1341516877 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3131.250 Y=890.000 Z=930.000), Max=(X=-2368.750 Y=990.000 Z=1030.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:8E0E7C81425764C7CEA862908BA69758 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1106700173 Label:ShakeZone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3327.387 Y=11149.753 Z=476.805), Max=(X=-3263.387 Y=11213.753 Z=540.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:8E9215844F6E0D9EF92174BC918342AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_2024995513 Label:Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3281.250 Y=2570.000 Z=270.000), Max=(X=-2518.750 Y=2670.000 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:93BFF04A46464AC9118BEDB0189B058B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247D1902_1267699949 Label:Cylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6437.500 Y=11227.500 Z=1463.750), Max=(X=7062.500 Y=11852.500 Z=1476.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:9847891A461DBEC9F99EA1AE67502270 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1965697766 Label:Bumper6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2250.000 Y=11810.000 Z=1360.000), Max=(X=2350.000 Y=11910.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:9C47FD7940F4F8C4DCDA8D820885D06E BaseClass:/Game/Obsticles/UpDownPlatform.UpDownPlatform_C NativeClass:/Script/Engine.Actor Name:UpDownPlatform_C_UAID_088FC308B524781902_2037127039 Label:UpDownPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=900.000 Y=-2320.000 Z=203.750), Max=(X=1000.000 Y=-2220.000 Z=216.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:9F2F3C914A6085C6DECC63A0D52224F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_2102642514 Label:Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2231.250 Y=2570.000 Z=510.000), Max=(X=-1468.750 Y=2670.000 Z=610.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:A3AAEA4848804BF27CCCA6BE055739AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1090884033 Label:Cone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2968.750 Y=11511.250 Z=-21.250), Max=(X=-2831.250 Y=11648.750 Z=1041.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:A4F0924B409B5ACCA2EE719B022A5CD2 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1168633759 Label:Bumper SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1390.000 Y=6740.000 Z=1360.000), Max=(X=1490.000 Y=6840.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:AA85DDAD4E057C6FBB8F0797A8FF8CEB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1633106459 Label:Cube30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3346.802 Y=2767.500 Z=1558.620), Max=(X=-3013.198 Y=2792.500 Z=1841.380) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:B15010F14C454038B4BA16B55CB52AE8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524821902_1272134876 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1330.000 Y=888.750 Z=710.000), Max=(X=-1230.000 Y=1651.250 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:B16C987D4FE2C13C34D1A9A39DEA5211 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524821902_1666815880 Label:TextRenderActor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3620.000 Y=938.125 Z=1060.000), Max=(X=-3620.000 Y=1030.000 Z=1128.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:B207CBD847F28FC71EC41CB06EBD498F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524B91902_1450276455 Label:Cube26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-440.357 Y=2762.500 Z=106.945), Max=(X=-19.643 Y=2937.500 Z=193.055) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:B47AFA8442C76639F76089A57F631B79 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1167727844 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3117.500 Y=5802.500 Z=582.500), Max=(X=-3042.500 Y=5877.500 Z=657.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:B7D273E84CEB1C42BBC01D8C01640D37 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1838434765 Label:Bumper5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.000 Y=11620.000 Z=1360.000), Max=(X=1460.000 Y=11720.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:B9E320554A94E33D528C14A29F9059BA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:BC554A8F442379D45B4E838A228635E2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1081469309 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5030.000 Y=943.750 Z=652.500), Max=(X=5130.000 Y=956.250 Z=1127.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:BC888FCF42B7AEADBCD28CA162009F01 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_2003720330 Label:Cone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5850.000 Y=2970.000 Z=1265.000), Max=(X=5950.000 Y=3070.000 Z=1315.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:C22AA079467F7F247EE40E9A943C9B73 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:C281FA6C41174A086E33BB922E0DB430 BaseClass:/Game/Obsticles/Bumper.Bumper_C NativeClass:/Script/Engine.Actor Name:Bumper_C_UAID_088FC308B5247C1902_1775731764 Label:Bumper4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1210.000 Y=9500.000 Z=1360.000), Max=(X=1310.000 Y=9600.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:C5AB921F4A301D37DEC86ABA01AAC4A1 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1248469317 Label:Boingy5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6113.750 Y=1253.750 Z=563.750), Max=(X=6226.250 Y=1366.250 Z=676.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:C63D44F44DEA3D6BB08D7E82DE17CFA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524811902_1832950698 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2001.250 Y=890.000 Z=710.000), Max=(X=-1238.750 Y=990.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:C961226440A73603EF662D85F20FE8D1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524831902_1670339059 Label:Cube25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20.000 Y=862.500 Z=188.750), Max=(X=80.000 Y=2737.500 Z=1951.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:D21D4B0848352BB5708F0BA2E4F2A87E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_1093404842 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3180.000 Y=5740.000 Z=280.000), Max=(X=-2980.000 Y=5940.000 Z=480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:D32CBE784CA3CEDD65CDF09BEAC4FAB2 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1261481318 Label:Boingy6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6120.000 Y=1630.000 Z=570.000), Max=(X=6220.000 Y=1730.000 Z=670.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:D452769643E5B9A0D6AE5C9393197F71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524801902_1685798510 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3611.250 Y=900.000 Z=0.000), Max=(X=-2848.750 Y=1000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:D93E9D854E345A39BEA9B1ADF9E96895 BaseClass:/Game/Obsticles/ShakeZone.ShakeZone_C NativeClass:/Script/Engine.Actor Name:ShakeZone_C_UAID_088FC308B524BD1902_1280974177 Label:ShakeZone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3127.387 Y=11549.753 Z=1016.805), Max=(X=-3063.387 Y=11613.753 Z=1080.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:DDCFA56D45A10157916C1BBF09B49330 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:DEF0515D4D2271B72DC6BBAB726D4091 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:E02BE561487D59B2FC34BB937EF2E0FF BaseClass:/Game/PlayerDetector/1-1.1-1_C NativeClass:/Script/Engine.Actor Name:Player_Detector_C_UAID_088FC308B524821902_1650838879 Label:Player_Detector6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3652.000 Y=948.000 Z=998.000), Max=(X=-3588.000 Y=1012.000 Z=1062.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:E46239A547C617CE4E2CC5AC2E8F0F0A BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524801902_1075971508 Label:TextRenderActor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5900.000 Y=2984.375 Z=1320.000), Max=(X=5900.000 Y=3050.000 Z=1368.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:E7F2BB304911940C71177A8C245EBE08 BaseClass:/Game/Obsticles/SidetoSidePlatform.SidetoSidePlatform_C NativeClass:/Script/Engine.Actor Name:SidetoSidePlatform_C_UAID_088FC308B524791902_1868893219 Label:SidetoSidePlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1840.000 Y=-2120.000 Z=763.750), Max=(X=1940.000 Y=-2020.000 Z=776.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:EB3927F141B23DAC027D10BBB4C09F2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524771902_2063979856 Label:Cone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2906.250 Y=11173.750 Z=-17.500), Max=(X=-2893.750 Y=11186.250 Z=757.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:ECB357E8426D998522F0D6874397AD71 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:EFF0838B4AAE6B1B24C1C4A3CAC483B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B524781902_1291514035 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4087.500 Y=11573.750 Z=1013.750), Max=(X=-2912.500 Y=11586.250 Z=1026.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:F08141B74AB54C2517F0A9A47A847D2B BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B524771902_1611268853 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3070.000 Y=5735.625 Z=620.000), Max=(X=-3070.000 Y=5950.000 Z=779.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:F0D53FF740659C56C49DECA5258665D0 BaseClass:/Game/Obsticles/SidetoSidePlatform.SidetoSidePlatform_C NativeClass:/Script/Engine.Actor Name:SidetoSidePlatform_C_UAID_088FC308B5247A1902_1584402399 Label:SidetoSidePlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2320.000 Y=-1790.000 Z=1323.750), Max=(X=2420.000 Y=-1690.000 Z=1336.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:F1EC88174977EA112B677CA28DADD44F BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_088FC308B5247D1902_1775636951 Label:TextRenderActor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6750.000 Y=11483.750 Z=1490.000), Max=(X=6750.000 Y=11580.000 Z=1561.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:F364040D40B66AE1AFBC0795EDF9302D BaseClass:/Game/Obsticles/CrazyPlatform.CrazyPlatform_C NativeClass:/Script/Engine.Actor Name:CrazyPlatform_C_UAID_088FC308B5247B1902_1191017579 Label:CrazyPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1206.250 Y=6566.250 Z=283.750), Max=(X=1693.750 Y=7053.750 Z=296.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:F3E328374E03DA004975B28C660802C5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247F1902_1730772327 Label:Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5713.750 Y=2710.000 Z=1222.500), Max=(X=5726.250 Y=2810.000 Z=1697.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:F84135164BFE88DC9003BDB87D664212 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1339839323 Label:Boingy11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5841.250 Y=2741.250 Z=601.250), Max=(X=5878.750 Y=2778.750 Z=638.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:FA73BD0243D8677D9552E3AA82C86AB8 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247E1902_1981633132 Label:Boingy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5331.250 Y=1241.250 Z=551.250), Max=(X=5468.750 Y=1378.750 Z=688.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:FB3F93C54DED910B1DDE15997588AFBD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_088FC308B5247A1902_1721807400 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1970.000 Y=-1380.000 Z=1273.750), Max=(X=2070.000 Y=-1280.000 Z=1286.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:FE83950B43BAF23F3DB6D594ACEB70F4 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1280118319 Label:Boingy7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6126.250 Y=2026.250 Z=576.250), Max=(X=6213.750 Y=2113.750 Z=663.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:FFA0B4524E6DF286FC403DBCADA910F9 BaseClass:/Game/Obsticles/Boingy.Boingy_C NativeClass:/Script/Engine.Actor Name:Boingy_C_UAID_088FC308B5247F1902_1237402316 Label:Boingy4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5707.500 Y=1247.500 Z=557.500), Max=(X=5832.500 Y=1372.500 Z=682.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/2Player
+----------------------------------------------------------------------------------------------------------------
+2Player - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of 2Player Persistent Level
+ |- Always loaded Actor Count: 101 
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247E1902_1536963128
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/ZX/A9S663NO6UN8HUDGNIPKNV
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247E1902_1597981129
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/0M/GW2H914EF8CJIBG6KSHPPJ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247E1902_1981633132
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/LE/IJ6X9C5PTKX2PZAU3GD42C
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1237402316
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/KG/FYR7YOLGEJKGH1KE6JD16N
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1248469317
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/O6/AY3GKZ13X9ZMV34PK09ZUI
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1261481318
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/LO/7R3KZ5XMXKR3SSQWTHUQXS
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1280118319
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/6J/BLQKTZ9CALCQ9VBZ8AX79K
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1294088320
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/GF/CXXSLUZZYFB8U8GKFGQ6XH
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1311396321
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/4/YH/SV2VASPUQLZYYJ049HIT2Q
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1324235322
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/F1/1NZ1C4ZSGL69REZNQ1FD99
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1339839323
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/OV/ZCYYYAVZ7QWI9TMPK0LERH
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1355009324
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/JN/WLSJQ1PYSS1UVOTUFF35RJ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1641573325
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/HQ/SOEOAD03NJ1LAGF677DPFJ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Boingy_C_UAID_088FC308B5247F1902_1686621326
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/8D/OLO01S9WZN5D0Q7GOIFRIM
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1168633759
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/KD/AMA2FDUP6MBGDT6S2RJ46V
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1720643762
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/4N/C1TLHZI2B0RM9CXVPZN9BX
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1738061763
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/YQ/XX9HRE7AUL62THXMLXJ6SU
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1775731764
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/7F/1RPTQATCTBI2FFOUS35OYF
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1838434765
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/5H/GNYIWNKQC9IJ67BMFE0RPI
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1965697766
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/WY/UGH288ZDVY9XZQR6QXWRI5
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1972264767
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/1/8S/Y638MCUV1KZJGVIQ5EBQCS
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_1993244769
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/P5/89MMJJMD38AVQB7YGBZP8S
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Bumper_C_UAID_088FC308B5247C1902_2017617770
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/3/9X/KGTPKINH4M406ZH3PW1MIR
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.CrazyPlatform_C_UAID_088FC308B5247B1902_1191017579
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/E/7R/WUIPC4P43XJ46P7R0JIT2I
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/6P/M0Y3OZJCYTKGRYHBAQHAXZ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/CX/X2X7I3FR8GWE8UF8DEUNHV
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B524771902_1337341847
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/3L/SH0BXIW76A50XMXID2OR36
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B524781902_1548090037
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/CG/D1XPAFPR6SR54I8NJPS94B
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B5247A1902_2012691401
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/KD/KWAYRW3WI8CED3LMID2JFK
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B5247D1902_1703816950
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/EF/5PUCUEZAK9UN4M9X5EHKXN
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B5247F1902_2111444331
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/F/2P/390JQOG6VXPT3OORZCQPHB
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B524821902_1650838879
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/R4/SSJ9RQLPXVTNCCC7VLL3X2
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B524BA1902_1359881637
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/JG/ZKC9L2S1T7I78JDGONQI40
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.Player_Detector_C_UAID_088FC308B524BA1902_1579854639
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/LW/NJT3AH950T2PJAZRWAAJEV
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/Q4/K6WYGM9P926OLZYVCBWJ63
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/W0/EKJAJ3H4N5FXUDLWEIIOD1
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1084687172
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/FB/IQQ8W2B5ONBD8XNRQZ4K62
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1106700173
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/E0/9317V7LHLHK444KEBFP78L
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1139995174
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/WL/VLX2JK6MBTYKWARW1K58TK
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1167412175
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/4/PP/XDTC52XH0D6ET4JCZIQGC8
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1280974177
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/NO/EGGZM7HHYGMF3IVBH2JJJQ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1304223178
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/XQ/MG0O1EAC5W9TXO4UH9S7YQ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1319820179
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/U9/YUG7VXBANNNJY2OR0PUX0J
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1330017180
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/MT/LQZR51NKL0HB0ZCK4BCKQC
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.ShakeZone_C_UAID_088FC308B524BD1902_1341561181
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/4O/6AOP3IDY4X04JQI0DNXCDG
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.SidetoSidePlatform_C_UAID_088FC308B524791902_1868893219
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/9U/WSYQA72APCXE6CIOKBITR3
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.SidetoSidePlatform_C_UAID_088FC308B5247A1902_1584402399
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/YQ/BKHVFAMZV1RE9X4MO8MSWX
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/0Z/3W5VMQR6OYTSU3GFOT1W82
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/E/9E/OX4FOG9OD38T62SPXAM6AP
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/KV/TA45V7A6DD62XZ5G2C8PKH
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524761902_1836892665
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/1/JH/1MOYGPZG5PJN1TNGT94W9T
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_1093404842
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/0N/65DB4G90Z193GTV1IRTP4F
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_1121549843
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/M1/CWZP96BDBEMTP04Y2CO8Q9
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_1167727844
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/3/WY/HZXN86UHQMWBMZKQS0I9MK
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_1838987854
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/3H/KD96K3J8JQL6U0AJHUM873
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_2006857855
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/8C/HE2D36H4IYJ7GDRL538H8R
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524771902_2063979856
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/6F/QDVR4M32NN3U6NL712IBEH
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524781902_1090884033
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/1/CH/ZBDQCQGPTVGQW8JPDR1N93
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524781902_1120063034
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/MA/PBGWCIL8H0F90L42PYYDO6
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524781902_1291514035
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/KR/YTJ02M9DF6MV5OMR1CO6ZY
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247A1902_1721807400
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/4/64/ZBDZ3P6BI88QOO5V2EWVD2
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247B1902_1955962581
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/96/VFP0DG159E8ZRVX32ZXZ8X
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247D1902_1267699949
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/OZ/5P97YT2VH9Q2OQIO0V2C5U
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247E1902_1891197131
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/MP/8BRND98N2GAYCRFNP64MHN
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247F1902_1081469309
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/21/YYMWYWFAZPLLEB90E13QHA
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247F1902_1730772327
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/N2/7ZV1XL3Q3WBSA34CQR9X4D
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247F1902_1780301328
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/SJ/GVT0GOK0FL8PMHY7FON1W3
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B5247F1902_2003720330
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/B8/OUJSNMU7W2XNUE6XG9IO5U
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524801902_1685798510
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/7Q/SR68HG9G6CVOI1OQ4ZEKSW
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524801902_1930552511
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/F/4K/PBV3L2UF7QTZBGISCA9184
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524801902_1988724512
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/6/W0/MQYVE26VPH7AY2I4CH6LPI
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524801902_2024995513
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/73/0TT4IRG0AARD6PD59RDBZQ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524801902_2102642514
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/DO/XURUXD3IXL1177L6B7BYF3
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524811902_1081907691
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/E/UZ/V47VN603N91MP6MBTX15GC
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524811902_1477772695
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/JG/0QQS3YUONZUDF7LYRK3USF
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524811902_1589662696
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/D/4Q/XDF3M5HBK0VK3QZI7EL1E9
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524811902_1832950698
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/E/ZI/Y3H1LN7O3OVYC3RVN4NK6W
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524821902_1245433875
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/TV/EAX1DISO1TB52RY2M2XPSU
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524821902_1272134876
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/NS/LEIT0F1TTS23EP3QVM3QEL
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524821902_1341516877
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/B8/A3YC9J52JEAMF7U6HN7PQC
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524821902_1450288878
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/OX/FUOPWFUUHZVD577K5H1PL5
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524831902_1154450057
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/HF/076N5Q8DWEZ0FU2R27GXA7
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524831902_1670339059
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/1/DL/TALZLVIUXW51FDQ20AI355
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524B91902_1450276455
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/8/IX/SO5QVKDFSNJTBGQH6EPI6Y
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524B91902_1526475456
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/84/5LB0YWE8PD3UWZYZLAK895
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524B91902_1568795457
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/I8/XVSE1S028JJDAFQC7EU0IU
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524B91902_1609088458
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/LR/8F3CLTAYQOW28CPE1R96PE
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_088FC308B524B91902_1633106459
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/F/37/L9B6LJ7H5M283HUFGJWTY9
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/3/0V/U4LCOV0JDL505J0U356UJQ
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524771902_1611268853
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/B/TP/3LBL75POSOAF624NSKHUU2
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524781902_1567101038
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/BC/0C8I50DYN125WKRWRCTKLB
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B5247A1902_2040408402
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/C/GB/NKPENZO8TC21YEDMW32KK5
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B5247D1902_1775636951
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/3/QK/URG4RKUSRQ6DB1VZGK7WYV
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524801902_1075971508
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/7/Y9/EFUBFOI5CSRQVX12O7UKF9
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524821902_1666815880
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/2/XX/EVOKIIE28WM8RSN3CQFUB3
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524BA1902_1419029638
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/A/WI/UE7N423EF89VJ7NIHFFEHC
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.TextRenderActor_UAID_088FC308B524BA1902_1637831642
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/2S/EB0FBANP9PPPMJRUIBK5OI
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.UpDownPlatform_C_UAID_088FC308B524781902_2037127039
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/5/XR/MW0LRCTPORKZTFSJ31FJBD
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.UpDownPlatform_C_UAID_088FC308B5247A1902_1331750398
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/4/PU/JKW3BER99HRIIPVFRKT6D1
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/0/GF/9OR3ML93MROIK63W3WDIP0
+ |- Actor Path: /Game/Maps/2Player.2Player:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/2Player/9/21/25UKPD6OGCXQ3N99XZLH3Q
+
+----------------------------------------------------------------------------------------------------------------
+2Player - Runtime Spatial Hash
+----------------------------------------------------------------------------------------------------------------
+[+] StreamingGrids
+ |- [+] MainGrid
+ |   |-             Origin: X=0.000 Y=0.000 Z=0.000
+ |   |-          Cell Size: 12800
+ |   |-       World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |-      Loading Range: 25600.00
+ |   |- Block Slow Loading: No
+ |   |-  ClientOnlyVisible: No
+ |   |- 
+ |   |- [+] Grid Levels: 1
+ |   |   |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+ |   |- 
+ |   |- [+] Content of Grid Level 0
+ |   |- 
